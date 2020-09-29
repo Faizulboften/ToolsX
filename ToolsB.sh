@@ -216,7 +216,7 @@ ls
 python2 Mr.rendy.py
 if
 
-if [ $bro = 16 ] || [ $bro =16 ]
+if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
 pil2 install mechanize
