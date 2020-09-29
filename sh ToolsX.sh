@@ -13,16 +13,16 @@ yellow='\033[33;1m'
 clear
 python2 password.py
 clear
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "Htc Ctr Gaming"| lolcat
 sleep 1
 clear
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "Faizul Gaming"| lolcat
 clear
-termux-open-url https://www.youtube.com/channel/UCF61OnE5_ZG3k9LGg-s0e2A?sub_confirmation=1
+termux-open-url https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q?sub_confirmation=1
 sleep 5
 toilet -f pagga "Hacking Channel"|lolcat
 clear
-termux-open-url https://www.youtube.com/channel/UC5jBHEmMrYbkh5oWFkbkzZg?sub_confirmation=1
+termux-open-url https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q?sub_confirmation=1
 sleep 5
 neofetch
 echo "╔══════════════════════════════════════╗"
@@ -47,29 +47,29 @@ echo $purple "
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mSandyto•Gautama  \033[1;93m               ║
-\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/F45H94M1N9\033[0m \033[1;93m  ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mFaizul•Boften  \033[1;93m               ║
+\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/Faizulcyber[0m \033[1;93m  ║
 \033[1;93m╚════════════════════════════════════════════╝"
 echo ""
 echo "╔══════════════════════════════╗"
 toilet -f pagga "   MENU TOOLS!!!"| lolcat
 echo "╚══════════════════════════════╝"
 echo $cy "
-┏━━━━━┫{menu dark fb}┣━━━━━┓
+┏━━━━━┫{✔ menu hacking sob ✔}┣━━━━━┓
 ┃
-┠──[1] Dark 1.6 ✔
+┠──[1] Tools Spam Bom Virus ✔
 ┃
-┠──[2] Dark 1.7 [-FREE-] ✔
+┠──[2] Hack Facebook  [-Target-] ✔
 ┃
-┠──[3] Dark 1.8 ✔
+┠──[3] Sadap Watsapps ✔
 ┃
-┠──[4] Dark premium ✔
+┠──[4] Kumpulan Tools Linux ✔
 ┃
-┠──[5] Dark VIP ✔
+┠──[5] Crack Hass Ban Pass FB ✔
 ┃
-┠──[6] Dark pro ✔
+┠──[6] Hack Akun Ml/FF ✔
 ┃
-┠──[7] Dark Diamond ✔
+┠──[7] Hack Facebook Target ✔
 ┃
 ┠──[8] Dark v.1.2 ✔
 ┠
@@ -95,63 +95,66 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 pkg install git
-git clone  https://github.com/pashayogi/SETAN
-cd SETAN
-python2 SETAN.py
+git clone https://github.com/InYourG00D1/Spam
+cd Spam
+sh ms.sh
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 pkg install git
-git clone https://github.com/muhalvin/darkfb7
-cd darkfb7
-python2 dark.py
+git clone https://github.com/MRA27/FBNEWV2
+cd FBNEWV2
+python2 MRA27.py
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 pkg install git
-git clone https://github.com/Mr-XsZ/Dark-Fb
-cd Dark-Fb
-python2 dark.py
+git clone https://github.com/Bl4ckDr460n/HxWhatsApp
+cd HxWhatsapp
+chmod +x HxWhatsApp
+python2 HxWhatsApp.py
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 pkg install git
-git clone https://github.com/TheMagizz/DarkPremium
-cd DarkPremium
-python2 DarkFB.py
+git clone https://github.com/Mrcakil/mrcakil
+cd mrcakil
+chmod +x tools
+./tools
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 pkg install git
-git clone https://github.com/m4rche3ll-cyber/dark-vpro
-cd dark-vpro
-python2 dark-vpro.py
+git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/
+cd FHX-Hash-Killer
+python2 FHXHashKiller.py
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-git clone https://github.com/wira2611/Pro2611
-cd Pro2611
-python2 Pro.py
+pkg install git
+git clone https://github.com/Senitopeng/PhisingGame.git
+cd PhisingGame
+python2 phising.py
 fi
 
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-git clone https://github.com/wira2611/diamon
-ls
-cd diamon
-ls
-python2 diamond-1.py
+apt install python2
+pip2 install mechanize
+git clone https://github.com/FR13ND8/BRUTEFORCEnew,
+cd BRUTEFORCEnew
+sh new.sh
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
@@ -229,7 +232,7 @@ if
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
-echo $cyan  "Kami Adalah Keluarga "
+echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 1
 exit
 fi
