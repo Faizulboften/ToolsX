@@ -24,7 +24,6 @@ toilet -f pagga "Hacking Channel"|lolcat
 clear
 termux-open-url https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q?sub_confirmation=1
 sleep 5
-neofetch
 echo "╔══════════════════════════════════════╗"
 toilet -f pagga " ANONYMOUS"| lolcat
 toilet -f pagga " INDONESIA"| lolcat
@@ -37,7 +36,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "Faizul Boften"| lolcat
 echo $purple "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
@@ -47,12 +46,12 @@ echo $purple "
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mFaizul•Boften  \033[1;93m               ║
-\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/Faizulcyber[0m \033[1;93m  ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mFaizul•Boften \033[1;93m               ║
+\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/Faizulcyber  [ \033[1;93m  ║
 \033[1;93m╚════════════════════════════════════════════╝"
 echo ""
 echo "╔══════════════════════════════╗"
-toilet -f pagga "   MENU TOOLS!!!"| lolcat
+toilet -f pagga "   MENU HACKING SOB!!!"| lolcat
 echo "╚══════════════════════════════╝"
 echo $cy "
 ┏━━━━━┫{✔ menu hacking sob ✔}┣━━━━━┓
