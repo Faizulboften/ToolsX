@@ -54,39 +54,26 @@ echo "╔═══════════════════════�
 toilet -f pagga "   MENU HACKING SOB!!!"| lolcat
 echo "╚══════════════════════════════╝"
 echo $cy "
-┏━━━━━┫{✔ menu hacking sob ✔}┣━━━━━┓
-┃
-┠──[1] Tools Spam Bom Virus ✔
-┃
-┠──[2] Hack Facebook  [-Target-] ✔
-┃
-┠──[3] Sadap Watsapps ✔
-┃
-┠──[4] Kumpulan Tools Linux ✔
-┃
-┠──[5] Crack Hass Ban Pass FB ✔
-┃
-┠──[6] Hack Akun Ml/FF ✔
-┃
-┠──[7] Hack Facebook Target ✔
-┃
-┠──[8] Dark v.1.2 ✔
-┠
-┠──[9] v2.Dark ✔
-┠
-┠──[10] Dark-Cyber11 ✔
-┠
-┠──[11] cyber 2.5 ✔
-┠
-┠──[12] IBLI2
-┠
-┠──[13] Dark-Asu
-┠
-┠──[14] BHV26
-┠
-┠──[15] MR.Rendy-Dark
-┠
-┗────[99] exit ✘"
+{✔ menu hacking sob ✔}
+
+[1] Tools Spam Bom Virus ✔
+[2] Hack Facebook  [-Target-] ✔
+[3] Sadap Watsapps ✔
+[4] Kumpulan Tools Linux ✔
+[5] Crack Hass Ban Pass FB ✔
+[6] Hack Akun Ml/FF ✔
+[7] Hack Facebook Target ✔
+[8] Dark v.1.2 ✔
+[9] v2.Dark ✔
+[10] Dark-Cyber11 ✔
+[11] cyber 2.5 ✔
+[12] IBLI2
+[13] Dark-Asu
+[14] BHV26
+[15] MR.Rendy-Dark
+[16] Clon Ind No Login
+[17] Clon Akun Old
+┗[99] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -227,6 +214,25 @@ git clone https://github.com/cyber2611/Mr.RENDY
 cd Mr.RENDY
 ls
 python2 Mr.rendy.py
+if
+
+if [ $bro = 16 ] || [ $bro =16 ]
+then
+clear
+pil2 install mechanize
+https://github.com/RIZKY4/pro
+cd pro
+python2 pro.py
+if
+
+if [ $bro = 17 ] || [ $bro = 17 ]
+then
+clear
+mengginstall 
+pkg install php
+https://github.com/RIZKY4/old
+cd old
+python2 old.py
 if
 
 if [ $bro = 99 ] || [ $bro = 99 ]
